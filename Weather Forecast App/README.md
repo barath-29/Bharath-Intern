@@ -13,7 +13,4 @@ This project utilizes the following API:
 
 - **OpenWeatherMap API**: Used to fetch weather data for the specified location.
 
-## License
-
-This project is licensed under the [Apache License 2.0](LICENSE).
 
